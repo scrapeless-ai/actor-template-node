@@ -1,0 +1,18 @@
+{
+  "name": "js-scrape-single-page",
+  "version": "0.0.1",
+  "description": "This is an example of an Scrapeless actor.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Scrapeless AI",
+  "license": "ISC",
+  "dependencies": {
+    "@scrapeless-ai/sdk": "1.3.0",
+    "puppeteer-core": "^24.9.0"
+  }
+}
